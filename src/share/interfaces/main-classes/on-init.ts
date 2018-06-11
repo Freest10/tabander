@@ -1,0 +1,3 @@
+interface OnInit {
+    onInit: () => void;
+}
