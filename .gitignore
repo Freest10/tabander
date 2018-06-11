@@ -1,2 +1,4 @@
 .*/*
 !.gitigonre
+
+.idea/vcs.xml
