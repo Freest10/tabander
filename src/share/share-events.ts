@@ -6,7 +6,7 @@ export class ShareEvents {
             callbak(event);
         });
 
-        events.addEventListener(document, 'touch', function (event) {
+        events.addEventListener(document, 'touchstart', function (event) {
             callbak(event);
         })
     }
